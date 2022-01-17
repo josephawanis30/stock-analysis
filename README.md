@@ -19,3 +19,4 @@ Disadvantage: If refactored wrong, it would the it would destroy the existing co
 Pros are if the code is done right, it would the task to run in a faster.  Also would me make the information needed more attainable, and more clearer for other users. 
 
 Cons are if there is a larger data and the code is done incorrectly, then it would cause issues with runtime and destroying a good existing code.  Time must be spent wisely on refactoring the code otherwise it might outweigh the cost and advantage.
+
