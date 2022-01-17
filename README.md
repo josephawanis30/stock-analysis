@@ -21,3 +21,5 @@ Pros are if the code is done right, it would the task to run in a faster.  Also 
 Cons are if there is a larger data and the code is done incorrectly, then it would cause issues with runtime and destroying a good existing code.  Time must be spent wisely on refactoring the code otherwise it might outweigh the cost and advantage.
 
 ![image](https://user-images.githubusercontent.com/94503395/149839951-df317b14-ca33-47af-8882-6a023d333ab3.png)
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/94503395/149840174-e3588df2-c48c-44ca-b3ae-5b06deadbfac.png)
