@@ -1,5 +1,0 @@
-# stock-analysis
-
-test
-
-hi
